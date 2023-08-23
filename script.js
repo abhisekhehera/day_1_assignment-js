@@ -60,32 +60,3 @@ console.log(cars);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// array
-// let list = ['milk', 'bread', 'butter']
-// // index number => add, update, read, delete
-// list[1] = 'brown bread';
-// list[6] = 'apple'
-// // push and pop
-// list.push('apple');
-// list.push('coffee');
-// list.pop()
-// list.pop()
-// console.log(list);
-// splice(index, delete count, )
-// list.splice(0, 0, 'apple', 'coffee', 'rice')
-// console.log(list)
-
